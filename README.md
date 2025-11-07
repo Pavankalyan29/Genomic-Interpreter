@@ -89,18 +89,4 @@ def swin1d_block(dim):
 ![result](./docs/results.png)
 
 
-# Cite This Project
-
-```bibtex
-@article{li2023genomic,
-  title={Genomic Interpreter: A Hierarchical Genomic Deep Neural Network
-         with 1D Shifted Window Transformer},
-  author={Li, Zehui and
-          Das, Akashaditya and
-          Beardall, William AV and
-          Zhao, Yiren and
-          Stan, Guy-Bart},
-  journal={arXiv preprint arXiv:2306.05143},
-  year={2023}
-}
 ```
